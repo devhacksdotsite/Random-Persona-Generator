@@ -2,6 +2,10 @@
 
 This is a quick random persona generator project that uses ReactJS and Tailwind CSS. 10 users a retrieved from the https://randomuser.me/ API and displayed. A persona search along with multiple views have been added. 
 
+# View the app
+
+https://majestic-cocada-e2ba2a.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
